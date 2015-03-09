@@ -11,7 +11,7 @@ This project contains 5 files.
 4. run_analysis.R, the actual code to run the analysis required in the course project.
 5. CodeBook.md, describing the code, execution steps and expected output.
 
-Running the Code:
+# Running the Code:
 
 1. Download the data from [this link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ), and save in your working directory.
 2. Unzip the file. Do not change anything in the folder. (Folder name should be 'UCI HAR Dataset')
