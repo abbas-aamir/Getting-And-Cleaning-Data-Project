@@ -17,8 +17,10 @@ This project contains 5 files.
 2. Unzip the file. Do not change anything in the folder. (Folder name should be 'UCI HAR Dataset')
 3. Download run_analysis.R file from git repo and save in the working directory.
 4. Run the following code in R console.
-      source("run_analysis.R")
-      run_analysis()
+            
+            source("run_analysis.R")
+            run_analysis()
+
 5. When you get the control back, look for the file 'final_data_2.txt' in the folder 'UCI HAR Dataset' in your working directory. This file contains the final output.
 
 
